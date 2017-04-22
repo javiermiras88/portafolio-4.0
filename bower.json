@@ -1,0 +1,27 @@
+{
+  "name": "www.javiermiras.com",
+  "description": "portafolio",
+  "main": "index.html",
+  "keywords": [
+    "trabajo",
+    "diseñador",
+    "web"
+    "informatica"
+  ],
+  "authors": [
+    "javier miras"
+  ],
+  "license": "MIT",
+  "homepage": "www.javiermiras88@hotmail.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
