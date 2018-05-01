@@ -83,7 +83,7 @@ $("html, body").animate({scrollTop:$(arriba).offset().top}, 1250)
 };
 
 
-/*------------ FUNCION CARGAR AJAX CUANDO APRENDA ANGULAR SERA MUCHO MEJOR ----------------*/
+/*------------ FUNCION CARGAR AJAX ----------------*/
 
 
 function cargar (destino,ruta){    //destino:header      //ruta:"html/partials/header.html"
